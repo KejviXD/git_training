@@ -20,3 +20,4 @@ console.log("Hello Github")
 // testing VScode git GUI
 
 // commit from github
+// commit from Github 2
