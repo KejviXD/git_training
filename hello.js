@@ -21,3 +21,5 @@ console.log("Hello Github")
 
 // commit from github
 // commit from Github 2
+
+// new feature from VScode gui
