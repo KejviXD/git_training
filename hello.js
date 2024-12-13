@@ -17,6 +17,14 @@ console.log("Hello Github")
 // code3
 // code4
 
+// testing VScode git GUI
+
+// commit from github
+// commit from Github 2
+
+// new feature from VScode gui
+
+
 // new JSM feature
 // code
 // code
